@@ -9,6 +9,8 @@ github.com/mattn/go-isatty v0.0.14 h1:yVuAays6BHfxijgZPzw+3Zlu5yQgKGP2/hcQbHb7S9
 github.com/mattn/go-isatty v0.0.14/go.mod h1:7GGIvUiUoEMVVmxf/4nioHXj79iQHKdU27kJ6hsGG94=
 github.com/sabhiram/go-colorize v0.0.0-20210403184538-366f55d711cf h1:ohn00dtgqfd3k6+B257yGDnqzA4OR0WgWuyTl75TN64=
 github.com/sabhiram/go-colorize v0.0.0-20210403184538-366f55d711cf/go.mod h1:GvlEbMJBpbAXFn06UajbdBlGZ18iLvHyuIrgG//L8uk=
+github.com/sabhiram/go-wol v0.0.0-20211224004021-c83b0c2f887d h1:NDtoSmsxTpDYTqvUurn2ooAzDaYbJSB9/tOhLzaewgo=
+github.com/sabhiram/go-wol v0.0.0-20211224004021-c83b0c2f887d/go.mod h1:SVPBBd492Gk7Cq5lPd6OAYtIGk2r1FsyH8KT3IB8h7c=
 github.com/stretchr/testify v0.0.0-20150929183540-2b15294402a8 h1:ryzplALtTWkUnRgVkNSsChh81lD3UeYMJ22gPVK/8N0=
 github.com/stretchr/testify v0.0.0-20150929183540-2b15294402a8/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
 golang.org/x/sys v0.0.0-20200116001909-b77594299b42/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
